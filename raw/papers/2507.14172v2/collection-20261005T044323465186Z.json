@@ -1,0 +1,93 @@
+{
+  "arxiv_id": "2507.14172v2",
+  "collected_at": "2026-10-05T04:43:23.465186+00:00",
+  "status": "collected",
+  "files": [
+    {
+      "url": "https://arxiv.org/pdf/2507.14172v2",
+      "path": "paper.pdf",
+      "bytes": 1279889,
+      "sha256": "4ab830cba97e6f696d3bfa95594e6d3c07cece79753f1d74a146b8aa90ff2ae6",
+      "reused": false
+    },
+    {
+      "url": "https://arxiv.org/html/2507.14172v2",
+      "path": "paper.html",
+      "bytes": 1388850,
+      "sha256": "db29d37868cb66c0998ae7fbbb7b171814abc1a2ea205b6e8cfd81f17da2f8bd",
+      "reused": false
+    },
+    {
+      "url": "https://arxiv.org/html/2507.14172v2/main_v2.png",
+      "path": "2507.14172v2/main_v2.png",
+      "bytes": 144138,
+      "sha256": "51c78f23c48a424488cf82fbde70368e3fa6f05666003b445367f0f34e3ed5e9",
+      "reused": false
+    },
+    {
+      "url": "https://arxiv.org/html/2507.14172v2/arc_train.svg",
+      "path": "2507.14172v2/arc_train.svg",
+      "bytes": 75240,
+      "sha256": "dfa6b46414b15622183bfb4bb36ca83d077fd72b791303d76e2f313932b92df3",
+      "reused": false
+    },
+    {
+      "url": "https://arxiv.org/html/2507.14172v2/arc_val_just_TTT.svg",
+      "path": "2507.14172v2/arc_val_just_TTT.svg",
+      "bytes": 66220,
+      "sha256": "83f4b5b9761b4983269b770f59e01b6d43653553d654b4ab138abca788855bf9",
+      "reused": false
+    },
+    {
+      "url": "https://arxiv.org/html/2507.14172v2/scaling_with_train.svg",
+      "path": "2507.14172v2/scaling_with_train.svg",
+      "bytes": 107178,
+      "sha256": "bcb6b599d31116aee7ec695ae8d99b06c63fb54ca2920d7636405686f4e9d471",
+      "reused": false
+    },
+    {
+      "url": "https://arxiv.org/html/2507.14172v2/scaling_7b_val.svg",
+      "path": "2507.14172v2/scaling_7b_val.svg",
+      "bytes": 54435,
+      "sha256": "2748b9845b2a6d251b7408465a8b2b6b6fb3d2839a4fedf288bf848b7d5b7d14",
+      "reused": false
+    },
+    {
+      "url": "https://arxiv.org/html/2507.14172v2/cosine_similarity_per_task.svg",
+      "path": "2507.14172v2/cosine_similarity_per_task.svg",
+      "bytes": 2207117,
+      "sha256": "d0dcc5ca8cf505674f59f9546d1de45933edc081bc1a03e735654f51de4fa837",
+      "reused": false
+    },
+    {
+      "url": "https://arxiv.org/html/2507.14172v2/scaling_7b_long.svg",
+      "path": "2507.14172v2/scaling_7b_long.svg",
+      "bytes": 48666,
+      "sha256": "d42dfd21332b27487097a70ef235158dd743962545e4b4c1710f89e4cea5c8e1",
+      "reused": false
+    },
+    {
+      "url": "https://arxiv.org/html/2507.14172v2/scaling_train_all_models_log.svg",
+      "path": "2507.14172v2/scaling_train_all_models_log.svg",
+      "bytes": 221433,
+      "sha256": "76991f2629fc6ddf0ab10ce2f2628a03e3671daaae989484103ba71260b062c9",
+      "reused": false
+    },
+    {
+      "url": "https://arxiv.org/html/2507.14172v2/scaling_val_all_models_log.svg",
+      "path": "2507.14172v2/scaling_val_all_models_log.svg",
+      "bytes": 208269,
+      "sha256": "1f51c881e7895173210d8100f62bb724779cbdd6e11b265bff03c9a34f8c0cb1",
+      "reused": false
+    },
+    {
+      "url": "https://arxiv.org/html/2507.14172v2/combine_all_models.svg",
+      "path": "2507.14172v2/combine_all_models.svg",
+      "bytes": 34160,
+      "sha256": "7d88c9fbafa4ed6f54c8a8b9f584496aec19bd3c67173f425528c8caeefb4f64",
+      "reused": false
+    }
+  ],
+  "gaps": [],
+  "scope": "Collection only; no ingestion. Non-figure site assets excluded."
+}

@@ -1,0 +1,114 @@
+{
+  "arxiv_id": "2411.00114v1",
+  "collected_at": "2026-10-05T03:30:20.856371+00:00",
+  "status": "collected",
+  "files": [
+    {
+      "url": "https://arxiv.org/pdf/2411.00114v1",
+      "path": "paper.pdf",
+      "bytes": 21335354,
+      "sha256": "ec4ff024ca24d647ac92e6864e157c32a161a6ac59cbeaeeee0153deadb92bdc",
+      "reused": false
+    },
+    {
+      "url": "https://arxiv.org/html/2411.00114v1",
+      "path": "paper.html",
+      "bytes": 814268,
+      "sha256": "195fa5ed41b42fe828de49f6ae7d824eded7695438e3f696fdfb52590ba2be90",
+      "reused": false
+    },
+    {
+      "url": "https://arxiv.org/html/2411.00114v1/figures/visual_abstract.png",
+      "path": "2411.00114v1/figures/visual_abstract.png",
+      "bytes": 8215703,
+      "sha256": "8de7823871f9e0edbaf37744200e597d9ac426a59e82f9825ecd8eca867f244c",
+      "reused": false
+    },
+    {
+      "url": "https://arxiv.org/html/2411.00114v1/data_degradation.svg",
+      "path": "2411.00114v1/data_degradation.svg",
+      "bytes": 66993,
+      "sha256": "1a247e725e513d9b797b2af657a39c3795275e3fbc936f6a32b44278a907b25a",
+      "reused": false
+    },
+    {
+      "url": "https://arxiv.org/html/2411.00114v1/architecture.png",
+      "path": "2411.00114v1/architecture.png",
+      "bytes": 123555,
+      "sha256": "99c7206c088a6cfcf43216287f5f92f46a9dc851415c3e1c3c9cbb9d17c92889",
+      "reused": false
+    },
+    {
+      "url": "https://arxiv.org/html/2411.00114v1/minecraft_tech_dependency.png",
+      "path": "2411.00114v1/minecraft_tech_dependency.png",
+      "bytes": 46337,
+      "sha256": "e7066f63c8be1ce236a8bb80817b346ff3b271a0d1cb2f429dbb4fcc1e2b67bd",
+      "reused": false
+    },
+    {
+      "url": "https://arxiv.org/html/2411.00114v1/inventory_plots.png",
+      "path": "2411.00114v1/inventory_plots.png",
+      "bytes": 63509,
+      "sha256": "0d3944a0130576f0584fd9d61e04cfbceac64b7f88742db95bf7e2a38ba0f7d7",
+      "reused": false
+    },
+    {
+      "url": "https://arxiv.org/html/2411.00114v1/agents_infer_feelings.svg",
+      "path": "2411.00114v1/agents_infer_feelings.svg",
+      "bytes": 209275,
+      "sha256": "4006abd00e3d8672bdf849d1683f358af57e39ae863fe6d6aab6dbbb5c3d81f5",
+      "reused": false
+    },
+    {
+      "url": "https://arxiv.org/html/2411.00114v1/long_term_relationships.png",
+      "path": "2411.00114v1/long_term_relationships.png",
+      "bytes": 226245,
+      "sha256": "0d99a1b75a74db46c2f2b56fff293f99e5cd4e99fe50ad896f3d644e57a71dbc",
+      "reused": false
+    },
+    {
+      "url": "https://arxiv.org/html/2411.00114v1/specialization.svg",
+      "path": "2411.00114v1/specialization.svg",
+      "bytes": 719673,
+      "sha256": "8a4e8077a721c9b1cd266a30616e5fc9fc9ec31c00adfc50134a53644b95276a",
+      "reused": false
+    },
+    {
+      "url": "https://arxiv.org/html/2411.00114v1/action_frequency.png",
+      "path": "2411.00114v1/action_frequency.png",
+      "bytes": 88804,
+      "sha256": "31901f6cba3c61bf7e65f8902c0b75a7953816c4b840ad49df6b8ae3d557edd3",
+      "reused": false
+    },
+    {
+      "url": "https://arxiv.org/html/2411.00114v1/constitution.png",
+      "path": "2411.00114v1/constitution.png",
+      "bytes": 400452,
+      "sha256": "5986828dbf553ffce396b1fe9615567a80602c6baeb2097ec37c8d156d640785",
+      "reused": false
+    },
+    {
+      "url": "https://arxiv.org/html/2411.00114v1/meme.png",
+      "path": "2411.00114v1/meme.png",
+      "bytes": 193839,
+      "sha256": "026ecad83b3f72511f8420433eba2bacedf77ae8acc2c883e68aae863f48f61e",
+      "reused": false
+    },
+    {
+      "url": "https://arxiv.org/html/2411.00114v1/figures/religion.png",
+      "path": "2411.00114v1/figures/religion.png",
+      "bytes": 1548331,
+      "sha256": "39528f6b02f35b4f952ae4b97cc10cc15ed6ab227ce857b2151cbd38f6bb4501",
+      "reused": false
+    },
+    {
+      "url": "https://arxiv.org/html/2411.00114v1/llm_comparison.svg",
+      "path": "2411.00114v1/llm_comparison.svg",
+      "bytes": 162596,
+      "sha256": "f61f92e863457d573e15f275c59335a7864aec41cfe2d9e09d30cd4c86d2d8cc",
+      "reused": false
+    }
+  ],
+  "gaps": [],
+  "scope": "Collection only; no ingestion. Non-figure site assets excluded."
+}

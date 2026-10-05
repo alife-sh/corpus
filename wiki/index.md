@@ -1,7 +1,7 @@
 # Wiki index
 
 The wiki is empty. Papers are being collected in [raw/papers](../raw/papers/);
-none have been ingested.
+no ingested knowledge is currently retained.
 
 This catalog lists knowledge pages, not pending bookmarks or raw files.
 
