@@ -1,0 +1,156 @@
+{
+  "arxiv_id": "2302.02662v5",
+  "collected_at": "2026-10-05T04:28:33.588222+00:00",
+  "status": "collected",
+  "files": [
+    {
+      "url": "https://arxiv.org/pdf/2302.02662v5",
+      "path": "paper.pdf",
+      "bytes": 3261868,
+      "sha256": "9394859cb3058b15dcb57b692ba220961d5e59fba8a034e50d2b42379011d231",
+      "reused": false
+    },
+    {
+      "url": "https://arxiv.org/html/2302.02662v5",
+      "path": "paper.html",
+      "bytes": 507170,
+      "sha256": "c1d00cb7429fc5de95d302f574c6d495dd556717f18d59a04b7a07e930c6a421",
+      "reused": false
+    },
+    {
+      "url": "https://arxiv.org/html/2302.02662v5/graphics/dlp_main_schema.png",
+      "path": "2302.02662v5/graphics/dlp_main_schema.png",
+      "bytes": 327382,
+      "sha256": "fd9e6c33c81baea1c28264f7d17ef16562ae6e70af6a48941a1ed0dd411fc7c9",
+      "reused": false
+    },
+    {
+      "url": "https://arxiv.org/html/2302.02662v5/graphics/Training_curves/MTRL/mtrl_actions_6_turn_left_turn_right_go_forward_pick_up_drop_toggle_SR_w10_v2.png",
+      "path": "2302.02662v5/graphics/Training_curves/MTRL/mtrl_actions_6_turn_left_turn_right_go_forward_pick_up_drop_toggle_SR_w10_v2.png",
+      "bytes": 123030,
+      "sha256": "7a55f55dba9ae486b732e988b27197f700963453f83b7df23e4902ee00178472",
+      "reused": false
+    },
+    {
+      "url": "https://arxiv.org/html/2302.02662v5/graphics/Training_curves/GTL_influence_nbr_act/se_size_action_space_v2.png",
+      "path": "2302.02662v5/graphics/Training_curves/GTL_influence_nbr_act/se_size_action_space_v2.png",
+      "bytes": 40136,
+      "sha256": "bc2d8c3d8d456461076178a702d14172a1f38709a54a6136ecd6f4378d1c109d",
+      "reused": false
+    },
+    {
+      "url": "https://arxiv.org/html/2302.02662v5/graphics/Training_curves/GTL_influence_nbr_dist/se_nbr_distractors_v2.png",
+      "path": "2302.02662v5/graphics/Training_curves/GTL_influence_nbr_dist/se_nbr_distractors_v2.png",
+      "bytes": 38329,
+      "sha256": "c5e0cf95d1f1c12e1a28750ab784d6bd1ae208ec0ee4cbd60dc4f6883b2f5b6b",
+      "reused": false
+    },
+    {
+      "url": "https://arxiv.org/html/2302.02662v5/graphics/generalization_tests_v2.png",
+      "path": "2302.02662v5/graphics/generalization_tests_v2.png",
+      "bytes": 301052,
+      "sha256": "96bf58baff98cd1ff5927899927131138acf0510446fc374b9f1444cfaffcbea",
+      "reused": false
+    },
+    {
+      "url": "https://arxiv.org/html/2302.02662v5/graphics/babyai-text_schema.png",
+      "path": "2302.02662v5/graphics/babyai-text_schema.png",
+      "bytes": 144407,
+      "sha256": "07ea70376c92b04369dd2386e76aef508d3b7526467dae4c5c8c8cc92639f660",
+      "reused": false
+    },
+    {
+      "url": "https://arxiv.org/html/2302.02662v5/graphics/Training_curves/per_task_results.png",
+      "path": "2302.02662v5/graphics/Training_curves/per_task_results.png",
+      "bytes": 19664,
+      "sha256": "f71840817c2af30a6fc6e6961802badc4b2b0c1c8a412e3f375955cf46e090d1",
+      "reused": false
+    },
+    {
+      "url": "https://arxiv.org/html/2302.02662v5/graphics/Training_curves/GTRB/compare_gtrb_drrn_ppo.png",
+      "path": "2302.02662v5/graphics/Training_curves/GTRB/compare_gtrb_drrn_ppo.png",
+      "bytes": 54539,
+      "sha256": "8fc7e0a14c7e22c6dcf1260e0c9cb0ac3a8151212b99cecfaf3023c35ba0b9c1",
+      "reused": false
+    },
+    {
+      "url": "https://arxiv.org/html/2302.02662v5/graphics/baseline_schemas/gflan-t5.png",
+      "path": "2302.02662v5/graphics/baseline_schemas/gflan-t5.png",
+      "bytes": 51208,
+      "sha256": "acf4fa7592919ed34b09c6b8eb3f8a49f4c7d39f4f6c4f62b78570659b629936",
+      "reused": false
+    },
+    {
+      "url": "https://arxiv.org/html/2302.02662v5/graphics/baseline_schemas/aflan-t5.png",
+      "path": "2302.02662v5/graphics/baseline_schemas/aflan-t5.png",
+      "bytes": 42413,
+      "sha256": "a4c59e5498de0fd6f56367d582d7d51e88ff7bcf1379dd14314564ee2bb451dc",
+      "reused": false
+    },
+    {
+      "url": "https://arxiv.org/html/2302.02662v5/graphics/baseline_schemas/npae-flan-t5.png",
+      "path": "2302.02662v5/graphics/baseline_schemas/npae-flan-t5.png",
+      "bytes": 41089,
+      "sha256": "605691a256f24731759ada200d1dcef7ae61f7a8e7aa8a42a75cbe9a7ed822b9",
+      "reused": false
+    },
+    {
+      "url": "https://arxiv.org/html/2302.02662v5/graphics/baseline_schemas/npe-flan-t5.png",
+      "path": "2302.02662v5/graphics/baseline_schemas/npe-flan-t5.png",
+      "bytes": 46274,
+      "sha256": "4661b2cb12e330638d63c4f19aa5e4026fde40b49f50305d5af0326ee7320450",
+      "reused": false
+    },
+    {
+      "url": "https://arxiv.org/html/2302.02662v5/graphics/baseline_schemas/npa-flan-t5.png",
+      "path": "2302.02662v5/graphics/baseline_schemas/npa-flan-t5.png",
+      "bytes": 39209,
+      "sha256": "0efee147e85d4a17418fb211ac1912dcacb8a2d514f1e32055877e27dd51b28c",
+      "reused": false
+    },
+    {
+      "url": "https://arxiv.org/html/2302.02662v5/graphics/Training_curves/Impact_pretraining/impact_pretraining_gtl_dist_8_act_6_turn_left_turn_right_go_forward_pick_up_drop_toggle_SR_w10_v2.png",
+      "path": "2302.02662v5/graphics/Training_curves/Impact_pretraining/impact_pretraining_gtl_dist_8_act_6_turn_left_turn_right_go_forward_pick_up_drop_toggle_SR_w10_v2.png",
+      "bytes": 94796,
+      "sha256": "823c2ba6fd5fd04ec7a690b79d9d25be5325cf8a8f6f5b0c15b6ff4e3a074f79",
+      "reused": false
+    },
+    {
+      "url": "https://arxiv.org/html/2302.02662v5/graphics/Training_curves/GTL_influence_size_LLM/compare_size_gtl_dist_8_act_6_turn_left_turn_right_go_forward_pick_up_drop_toggle_SR_w10_v2.png",
+      "path": "2302.02662v5/graphics/Training_curves/GTL_influence_size_LLM/compare_size_gtl_dist_8_act_6_turn_left_turn_right_go_forward_pick_up_drop_toggle_SR_w10_v2.png",
+      "bytes": 114225,
+      "sha256": "b6ffa49dcd0f0c535e4f52154a2605232cb80415e4b50c48b6a7b718773ca207",
+      "reused": false
+    },
+    {
+      "url": "https://arxiv.org/html/2302.02662v5/graphics/Training_curves/GTL_influence_nbr_act/ablation_action_space_dist_8_act_3_6_9_SR_w10_v2.png",
+      "path": "2302.02662v5/graphics/Training_curves/GTL_influence_nbr_act/ablation_action_space_dist_8_act_3_6_9_SR_w10_v2.png",
+      "bytes": 373085,
+      "sha256": "8759b8e1ab3a49189f5d018168991e8e8e2ce53abbe48d734100227732627b3d",
+      "reused": false
+    },
+    {
+      "url": "https://arxiv.org/html/2302.02662v5/graphics/Training_curves/GTL_influence_nbr_dist/ablation_nbr_distractors_gtl_dist_4_8_16_SR_w10_v2.png",
+      "path": "2302.02662v5/graphics/Training_curves/GTL_influence_nbr_dist/ablation_nbr_distractors_gtl_dist_4_8_16_SR_w10_v2.png",
+      "bytes": 378297,
+      "sha256": "c92fa7ff566e7072e9b09b552432067359d62c06fbb5fb8630bbf6a6a6c71156",
+      "reused": false
+    },
+    {
+      "url": "https://arxiv.org/html/2302.02662v5/graphics/Training_curves/Robustness_to_domain_specific_vocabulary/Figure_inversed_left-right.png",
+      "path": "2302.02662v5/graphics/Training_curves/Robustness_to_domain_specific_vocabulary/Figure_inversed_left-right.png",
+      "bytes": 61325,
+      "sha256": "420e7517f7d6c36b776b4c5a343b73689e0bbda39ad325f46694f18e1ac8e398",
+      "reused": false
+    },
+    {
+      "url": "https://arxiv.org/html/2302.02662v5/graphics/Training_curves/MTRL_prompt_distributions/policy_evolution_v2.png",
+      "path": "2302.02662v5/graphics/Training_curves/MTRL_prompt_distributions/policy_evolution_v2.png",
+      "bytes": 636765,
+      "sha256": "25552ca8a02b9f2ea6d3da77f270b6208fc09edd0bd5becc4abbec2e6c6bc872",
+      "reused": false
+    }
+  ],
+  "gaps": [],
+  "scope": "Collection only; no ingestion. Non-figure site assets excluded."
+}

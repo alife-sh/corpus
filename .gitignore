@@ -1,0 +1,24 @@
+# Python bytecode, test caches, and virtual environments
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.venv/
+venv/
+
+# Local secrets (keep example configuration trackable)
+.env
+.env.*
+!.env.example
+
+# Editor and operating-system artifacts
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Raw sources, figures, and project skills are intentionally tracked.

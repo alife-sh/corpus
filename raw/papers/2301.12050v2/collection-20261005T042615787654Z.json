@@ -1,0 +1,79 @@
+{
+  "arxiv_id": "2301.12050v2",
+  "collected_at": "2026-10-05T04:26:15.787654+00:00",
+  "status": "collected",
+  "files": [
+    {
+      "url": "https://arxiv.org/pdf/2301.12050v2",
+      "path": "paper.pdf",
+      "bytes": 922496,
+      "sha256": "8564a92ac942a90e33f20971e30e6174f4301704f2af3eadc2be7beca60ecbe7",
+      "reused": false
+    },
+    {
+      "url": "https://arxiv.org/html/2301.12050v2",
+      "path": "paper.html",
+      "bytes": 207252,
+      "sha256": "4c8db75ae9929400fc5941880a62585837d4b9564c80a715203933dac3f762aa",
+      "reused": false
+    },
+    {
+      "url": "https://arxiv.org/html/2301.12050v2/figures/DECKARD.png",
+      "path": "2301.12050v2/figures/DECKARD.png",
+      "bytes": 235378,
+      "sha256": "7321cd798f39f5c1209de12e48aaa9dc781452861ea676c1bfd8f1a82b3178e9",
+      "reused": false
+    },
+    {
+      "url": "https://arxiv.org/html/2301.12050v2/figures/size.png",
+      "path": "2301.12050v2/figures/size.png",
+      "bytes": 70095,
+      "sha256": "3be36a23102f1c6087ebe9dba5338ad8b1bf162c528db84542c17602fb630dcb",
+      "reused": false
+    },
+    {
+      "url": "https://arxiv.org/html/2301.12050v2/figures/pruned.png",
+      "path": "2301.12050v2/figures/pruned.png",
+      "bytes": 38449,
+      "sha256": "a6bec18e2260a10ecd1bd821f685267d6aa573737f10b0f8274be02889113284",
+      "reused": false
+    },
+    {
+      "url": "https://arxiv.org/html/2301.12050v2/figures/success.png",
+      "path": "2301.12050v2/figures/success.png",
+      "bytes": 69942,
+      "sha256": "d77adabc47db24429564c23891ddac87d2d618739febd18cae739c75453abbab",
+      "reused": false
+    },
+    {
+      "url": "https://arxiv.org/html/2301.12050v2/figures/steps.png",
+      "path": "2301.12050v2/figures/steps.png",
+      "bytes": 33202,
+      "sha256": "3e8ab33c2e7a15d2bc585c14c8ef1afa6f2133c6b37cef2df4e7447775060c52",
+      "reused": false
+    },
+    {
+      "url": "https://arxiv.org/html/2301.12050v2/figures/noise.png",
+      "path": "2301.12050v2/figures/noise.png",
+      "bytes": 52012,
+      "sha256": "2d7588f1de821c1a0561ae63c7e54f79b28cdcbcb936368bd826909531e9f91b",
+      "reused": false
+    },
+    {
+      "url": "https://arxiv.org/html/2301.12050v2/figures/fintune.png",
+      "path": "2301.12050v2/figures/fintune.png",
+      "bytes": 131887,
+      "sha256": "fc1a4dfbfe1286bd155ad23b4a1016bc54f52becaa69d3ceaea73a4535afc12a",
+      "reused": false
+    },
+    {
+      "url": "https://arxiv.org/html/2301.12050v2/figures/size_4.png",
+      "path": "2301.12050v2/figures/size_4.png",
+      "bytes": 118597,
+      "sha256": "9b04b442d35d03d6d6bd1f910620a93466a719686e598fe3eb3f0f6c90768fc5",
+      "reused": false
+    }
+  ],
+  "gaps": [],
+  "scope": "Collection only; no ingestion. Non-figure site assets excluded."
+}

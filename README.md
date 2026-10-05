@@ -11,6 +11,8 @@ raw/
   papers/
     <paper-id>/
       paper.pdf             Original paper (or other source format)
+      paper.html            HTML snapshot, when available
+      <asset-paths>/        Figures at the paths referenced by the HTML
       metadata.md           Optional bibliographic details
       notes.md              Optional human annotations
 wiki/
@@ -24,6 +26,20 @@ wiki/
 The raw collection preserves sources. The wiki holds agent-maintained knowledge
 derived from them. `AGENTS.md` defines how to maintain that separation.
 
+## Collect arXiv papers with an agent
+
+The project includes a [collect-arxiv skill](.agents/skills/collect-arxiv/SKILL.md).
+Ask an agent to collect a versioned arXiv URL, or invoke it explicitly in Pi:
+
+```text
+/skill:collect-arxiv https://arxiv.org/html/2206.01134v2
+```
+
+Run `/reload` in Pi after adding the skill, and approve project trust if prompted.
+The collector preserves the PDF, HTML, figures, and figure dependencies, and
+records file hashes and any gaps. It requires an explicit version, never
+overwrites existing source files, and does not ingest the paper.
+
 ## Ingest: turn sources into shared understanding
 
 Start by putting original source files in `raw/papers/`. Adding a file only
@@ -33,6 +49,14 @@ it and integrating that understanding into the wiki.**
 Use a stable, readable folder name such as `author-year-short-title` or an arXiv
 identifier. Keep each paper's supplementary files together in the same folder.
 Preserve distinct versions rather than overwriting an earlier one.
+
+For HTML papers, **collect the referenced figures by default**, in their original
+formats, including any dependencies needed to display them. Keep their relative
+paths so they load from the saved HTML without changing the original source.
+Keep the version-specific PDF alongside it when available. Record any missing
+assets or remaining network dependencies in metadata; local figures do not
+necessarily make the site's styling and interface work offline. Collecting
+these assets is not ingestion.
 
 Metadata is optional. If the bookmark already includes useful
 details, save them in `metadata.md`:

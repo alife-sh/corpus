@@ -1,0 +1,51 @@
+{
+  "arxiv_id": "2012.09830v7",
+  "collected_at": "2026-10-05T04:33:18.622231+00:00",
+  "status": "collected",
+  "files": [
+    {
+      "url": "https://arxiv.org/pdf/2012.09830v7",
+      "path": "paper.pdf",
+      "bytes": 1822186,
+      "sha256": "1de01f5f82ae5d92590129d78895221266b9b04b70d4fe4a21b3fb5daae1aa44",
+      "reused": false
+    },
+    {
+      "url": "https://arxiv.org/html/2012.09830v7",
+      "path": "paper.html",
+      "bytes": 393892,
+      "sha256": "c4b3b0354e90d62d2e3efaf92b695972caca3e910bf59f4ca0238e74fa95613a",
+      "reused": false
+    },
+    {
+      "url": "https://arxiv.org/html/2012.09830v7/scope5.png",
+      "path": "2012.09830v7/scope5.png",
+      "bytes": 216006,
+      "sha256": "5af691a91d097b3e1d89762cb28ff1c3b92f747619255f84785e8185cf89574f",
+      "reused": false
+    },
+    {
+      "url": "https://arxiv.org/html/2012.09830v7/goal.png",
+      "path": "2012.09830v7/goal.png",
+      "bytes": 97237,
+      "sha256": "5965395aaab0be82911f42673a2386b2b3088ff733cd38206d1ff50c8710712a",
+      "reused": false
+    },
+    {
+      "url": "https://arxiv.org/html/2012.09830v7/loop-algo.png",
+      "path": "2012.09830v7/loop-algo.png",
+      "bytes": 89104,
+      "sha256": "4fdda5433432f08ee24803e02cfe08a4ab56baa2d734c05eb99e10ab563a7377",
+      "reused": false
+    },
+    {
+      "url": "https://arxiv.org/html/2012.09830v7/survey-envs.png",
+      "path": "2012.09830v7/survey-envs.png",
+      "bytes": 1227722,
+      "sha256": "fca5f3a26f1e28598e2eb157fdd323615276f2e89ebf005899baee980298852b",
+      "reused": false
+    }
+  ],
+  "gaps": [],
+  "scope": "Collection only; no ingestion. Non-figure site assets excluded."
+}

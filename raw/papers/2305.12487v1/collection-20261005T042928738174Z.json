@@ -1,0 +1,128 @@
+{
+  "arxiv_id": "2305.12487v1",
+  "collected_at": "2026-10-05T04:29:28.738174+00:00",
+  "status": "collected",
+  "files": [
+    {
+      "url": "https://arxiv.org/pdf/2305.12487v1",
+      "path": "paper.pdf",
+      "bytes": 2303993,
+      "sha256": "63cb37111b3ef1230b3e9fb9be738f465f561ecc10abe483d9f03333dfbce399",
+      "reused": false
+    },
+    {
+      "url": "https://arxiv.org/html/2305.12487v1",
+      "path": "paper.html",
+      "bytes": 217384,
+      "sha256": "20dbeec401c866a6b7fa6f1961ddb70206972701ddc71ad49afedc785845e823",
+      "reused": false
+    },
+    {
+      "url": "https://arxiv.org/html/2305.12487v1/lma3_overview.png",
+      "path": "2305.12487v1/lma3_overview.png",
+      "bytes": 364586,
+      "sha256": "aede549488eb01b94e54e6b741b77626dc08208a928fdb79bdcccc9192b1f0df",
+      "reused": false
+    },
+    {
+      "url": "https://arxiv.org/html/2305.12487v1/lma3_architecture_v2.png",
+      "path": "2305.12487v1/lma3_architecture_v2.png",
+      "bytes": 255578,
+      "sha256": "850853cbe80580319150b78d17503ac4184a40ff6a1b6f416fa37dbc05c744dd",
+      "reused": false
+    },
+    {
+      "url": "https://arxiv.org/html/2305.12487v1/eval_score.svg",
+      "path": "2305.12487v1/eval_score.svg",
+      "bytes": 46295,
+      "sha256": "2d9a1fd6e876b37cd1c80deeed5d77a36e5854f7f6159b789c657db9173fca06",
+      "reused": false
+    },
+    {
+      "url": "https://arxiv.org/html/2305.12487v1/figures/table.png",
+      "path": "2305.12487v1/figures/table.png",
+      "bytes": 298734,
+      "sha256": "9bd5f7f4a6320ff0b9d4dba421cfdc211f4abc8d9920ee5f69ae0d1993e053aa",
+      "reused": false
+    },
+    {
+      "url": "https://arxiv.org/html/2305.12487v1/n_relabels.svg",
+      "path": "2305.12487v1/n_relabels.svg",
+      "bytes": 191666,
+      "sha256": "bfe9c48bd315a6d1ef213f379d62d2d8184f2e7944b1e8662748a871ff9705ff",
+      "reused": false
+    },
+    {
+      "url": "https://arxiv.org/html/2305.12487v1/Hill0.svg",
+      "path": "2305.12487v1/Hill0.svg",
+      "bytes": 150288,
+      "sha256": "bbf3fe8077a95d44866278165e52a28a02a19187b9d725441ecc4e186a7e678e",
+      "reused": false
+    },
+    {
+      "url": "https://arxiv.org/html/2305.12487v1/Hill1.svg",
+      "path": "2305.12487v1/Hill1.svg",
+      "bytes": 198051,
+      "sha256": "4e67bd5445fd1df190890ee5051d17cd0173c618fef37b9ccda6e5babcb157a2",
+      "reused": false
+    },
+    {
+      "url": "https://arxiv.org/html/2305.12487v1/Stems.svg",
+      "path": "2305.12487v1/Stems.svg",
+      "bytes": 123054,
+      "sha256": "bb9d83a3107f2c83ae7e360e965bf3f46a9e4abe310725d6ef8b3eb6401d5c73",
+      "reused": false
+    },
+    {
+      "url": "https://arxiv.org/html/2305.12487v1/p_conjunction.svg",
+      "path": "2305.12487v1/p_conjunction.svg",
+      "bytes": 214107,
+      "sha256": "e7affb6721bfe25646481234d14ef30d4d1fefb448d79888addd2d035cfbaf3b",
+      "reused": false
+    },
+    {
+      "url": "https://arxiv.org/html/2305.12487v1/p_categories.svg",
+      "path": "2305.12487v1/p_categories.svg",
+      "bytes": 188535,
+      "sha256": "46a98023dfb4ac2164fcc0c7eb0ebbc454ae12e9c07d3e7a44307efd59ee63b3",
+      "reused": false
+    },
+    {
+      "url": "https://arxiv.org/html/2305.12487v1/n_unique.svg",
+      "path": "2305.12487v1/n_unique.svg",
+      "bytes": 28178,
+      "sha256": "1d32dceeeb71913c664f87d3dc59b47eee185d05c9b95b8114e0336b1acae033",
+      "reused": false
+    },
+    {
+      "url": "https://arxiv.org/html/2305.12487v1/ratio_unique.svg",
+      "path": "2305.12487v1/ratio_unique.svg",
+      "bytes": 11189,
+      "sha256": "952e2d224db1a524a8fc15de35b6283a436346d418a0655d3eb56230c3d44374",
+      "reused": false
+    },
+    {
+      "url": "https://arxiv.org/html/2305.12487v1/nov_unique.svg",
+      "path": "2305.12487v1/nov_unique.svg",
+      "bytes": 14733,
+      "sha256": "2666bf89adf9facb69f9bf7fde54747b17be56fac49de07fc883a3a03bcd3cff",
+      "reused": false
+    },
+    {
+      "url": "https://arxiv.org/html/2305.12487v1/selfeval.svg",
+      "path": "2305.12487v1/selfeval.svg",
+      "bytes": 47630,
+      "sha256": "6485c0f5759f2e591b1f9fcdf533d550318afb0480853d72cbd4fdf69c0fdc43",
+      "reused": false
+    },
+    {
+      "url": "https://arxiv.org/html/2305.12487v1/figures/confusion.png",
+      "path": "2305.12487v1/figures/confusion.png",
+      "bytes": 150417,
+      "sha256": "77bbb5a39bb636ddc82719b11dbb309e647496f8e4e66f33159b7895924682b0",
+      "reused": false
+    }
+  ],
+  "gaps": [],
+  "scope": "Collection only; no ingestion. Non-figure site assets excluded."
+}
